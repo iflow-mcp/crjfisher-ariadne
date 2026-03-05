@@ -1,0 +1,1 @@
+{"serverConfig": "{\"mcpServers\":{\"ariadne\":{\"command\":\"npx\",\"args\":[\"-y\",\"@iflow-mcp/crjfisher-ariadne\",\"--transport\",\"stdio\"],\"env\":{\"PROJECT_PATH\":\"${PROJECT_PATH}\"},\"values\":{\"PROJECT_PATH\":{\"type\":\"string\",\"title\":\"项目路径\",\"description\":\"需要分析的代码项目根目录路径\",\"default\":\"/app/auto-mcp-upload/data/18239\"}}}}}"}
